@@ -9,12 +9,8 @@ package formativa4.pkg2b;
  * @author maria jose
  */
 public class main {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+  public static void main(String[] args) {
+        
     }
     
 }
