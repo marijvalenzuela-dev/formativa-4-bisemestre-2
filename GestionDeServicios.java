@@ -4,10 +4,6 @@
  */
 package data;
 
-/**
- *
- * @author maria jose
- */
 import model.RutaGastronomica;
 import model.PaseoLacustre;
 import model.ExcursionCultural;
