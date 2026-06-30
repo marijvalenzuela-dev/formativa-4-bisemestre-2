@@ -1,16 +1,18 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package formativa4.pkg2b;
+
+package ui;
+
+import data.GestionDeServicios;
 
 /**
- *
  * @author maria jose
  */
-public class main {
-  public static void main(String[] args) {
-        
+public class Main {
+
+    public static void main(String[] args) {
+        GestionDeServicios gestor = new GestionDeServicios();
+        gestor.mostrarServicios();
     }
-    
 }
