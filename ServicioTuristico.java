@@ -10,7 +10,7 @@ package model;
  */
 public class ServicioTuristico {
     protected String nombre;
-    protected int duracionHoras; 
+    protected int duracionHoras;
 
     public ServicioTuristico() {
     }
